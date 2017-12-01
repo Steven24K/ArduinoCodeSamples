@@ -5,3 +5,5 @@ Handige links:
 Officiële arduino websitte:  https://www.arduino.cc/
 Voor het gebruik van funties van de arduino: https://www.arduino.cc/en/Reference/HomePage
 Voor vragen over de arduino: https://stackoverflow.com/search?q=arduino
+Voor info over Arduino en motoren:
+http://howtomechatronics.com/category/tutorials/
